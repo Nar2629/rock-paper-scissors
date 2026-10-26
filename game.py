@@ -3,7 +3,7 @@ A = "Let's play rock, paper, or scissors"
 
 print(A)
 
-player_choice = input("Choose rok, paper, or scissors: ").lower()
+player_choice = input("Choose rock, paper, or scissors: ").lower()
 
 choices = ["rock", "paper", "scissors"]
 
